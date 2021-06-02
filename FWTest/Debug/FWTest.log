@@ -1,0 +1,12 @@
+﻿  FWTest.cpp
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_3\FloydWarshall\FloydWarshall.h(58,21): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_3\FloydWarshall\FloydWarshall.h(60,22): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_3\FloydWarshall\FloydWarshall.h(97,21): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_3\FloydWarshall\FloydWarshall.h(99,22): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_3\FloydWarshall\FloydWarshall.h(109,21): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_3\FloydWarshall\FloydWarshall.h(112,22): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_3\FloydWarshall\FloydWarshall.h(115,21): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_3\FloydWarshall\FloydWarshall.h(116,21): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_3\FloydWarshall\FloydWarshall.h(117,22): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_3\FloydWarshall\FloydWarshall.h(54): warning C4715: 'FWGraph::inputCity': not all control paths return a value
+  FWTest.vcxproj -> F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_3\FloydWarshall\Debug\FWTest.dll

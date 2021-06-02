@@ -1,0 +1,2 @@
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_3\FloydWarshall\Debug\FloydWarshall.exe
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_3\FloydWarshall\Debug\FloydWarshall.pdb
